@@ -4,7 +4,7 @@
 
 <h1 align="center">Neural Frame 2.0</h1>
 
-<p align="center"><strong>Processamento de vídeo em tempo real para jogos no Windows</strong></p>
+<p align="center"><strong>Processamento de vídeo em tempo real no Windows para jogos de PC, consoles e outras fontes compatíveis</strong></p>
 <p align="center"><a href="https://github.com/flwless-love/neural-frame-nr/releases">Downloads</a> · <a href="#como-usar">Como usar</a> · <a href="#ps5-streaming">PS5 Streaming</a> · <a href="#novidades-da-versão-20">Notas da versão</a> · <a href="#comunidade-e-apoio">Comunidade e apoio</a></p>
 
 ## O que o aplicativo faz
