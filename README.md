@@ -23,13 +23,15 @@ O Neural Frame recebe a imagem de uma **placa de captura**, de uma **janela** ou
 
 ## Downloads
 
+O Neural Frame é distribuído em formato binário. Este repositório público reúne a documentação e os downloads. Os arquivos automáticos “Source code” do GitHub contêm os documentos e as imagens do repositório.
+
 Escolha o arquivo da sua placa de vídeo na seção [Releases](https://github.com/flwless-love/neural-frame-nr/releases).
 
 | Série NVIDIA | Arquitetura | Portátil | Instalador |
 | --- | --- | --- | --- |
-| RTX 3000 | Ampere | ZIP | EXE |
-| RTX 4000 | Ada Lovelace | ZIP | EXE |
-| RTX 5000 | Blackwell | ZIP | EXE |
+| RTX 3000 | Ampere | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-2.0-Primeira-Copia-Portatil-RTX3000-Ampere.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-Setup-2.0-RTX3000-Ampere-Primeira-Copia.exe) |
+| RTX 4000 | Ada Lovelace | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-2.0-Primeira-Copia-Portatil-RTX4000-Ada.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-Setup-2.0-RTX4000-Ada-Primeira-Copia.exe) |
+| RTX 5000 | Blackwell | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-2.0-Primeira-Copia-Portatil-RTX5000-Blackwell.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-Setup-2.0-RTX5000-Blackwell-Primeira-Copia.exe) |
 
 Para usar o **Upscaling NVIDIA**, prefira o instalador da sua série, que inclui o runtime NVIDIA Video Effects correspondente. Para usar a edição portátil, extraia o ZIP inteiro e abra **NeuralFrame.exe**.
 
