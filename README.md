@@ -5,7 +5,7 @@
 <h1 align="center">Neural Frame 2.0</h1>
 
 <p align="center"><strong>Processamento de vídeo em tempo real para jogos no Windows</strong></p>
-<p align="center"><a href="https://github.com/flwless-love/neural-frame-nr/releases">Downloads</a> · <a href="#como-usar">Como usar</a> · <a href="#ps5-streaming">PS5 Streaming</a> · <a href="#novidades-da-versão-20">Notas da versão</a> · <a href="https://www.youtube.com/@Zanitzada">YouTube</a> · <a href="#apoie-o-projeto">Apoie o projeto</a></p>
+<p align="center"><a href="https://github.com/flwless-love/neural-frame-nr/releases">Downloads</a> · <a href="#como-usar">Como usar</a> · <a href="#ps5-streaming">PS5 Streaming</a> · <a href="#novidades-da-versão-20">Notas da versão</a> · <a href="#comunidade-e-apoio">Comunidade e apoio</a></p>
 
 ## O que o aplicativo faz
 
@@ -34,6 +34,29 @@ Escolha o arquivo da sua placa de vídeo na seção [Releases](https://github.co
 | RTX 5000 | Blackwell | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-2.0-Primeira-Copia-Portatil-RTX5000-Blackwell.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-Setup-2.0-RTX5000-Blackwell-Primeira-Copia.exe) |
 
 Para usar o **Upscaling NVIDIA**, prefira o instalador da sua série, que inclui o runtime NVIDIA Video Effects correspondente. Para usar a edição portátil, extraia o ZIP inteiro e abra **NeuralFrame.exe**.
+
+## Comunidade e apoio
+
+<p align="center">
+  <a href="https://discord.com/invite/4UC2FZfZaw"><img alt="Participar da comunidade no Discord" src="https://img.shields.io/badge/Discord-Participar-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white"></a>
+  <a href="https://www.youtube.com/@Zanitzada"><img alt="Acompanhar o canal Zanitzada no YouTube" src="https://img.shields.io/badge/YouTube-Zanitzada-BD2026?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
+  <a href="https://livepix.gg/zanit"><img alt="Apoiar o Neural Frame pelo LivePix" src="https://img.shields.io/badge/LivePix-Apoiar-007D86?style=for-the-badge"></a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/@Zanitzada"><img src="media/youtube-zanit.jpg" alt="Foto do canal Zanit no YouTube" width="162"></a><br>
+      <strong>Zanit no YouTube</strong><br>
+      <a href="https://www.youtube.com/@Zanitzada">@Zanitzada</a>
+    </td>
+    <td align="center">
+      <a href="https://livepix.gg/zanit"><img src="media/livepix-zanit.png" alt="QR Code do LivePix do Zanit" width="162"></a><br>
+      <strong>Apoie pelo LivePix</strong><br>
+      <a href="https://livepix.gg/zanit">livepix.gg/zanit</a>
+    </td>
+  </tr>
+</table>
 
 ## Como usar
 
@@ -121,15 +144,3 @@ Na tela inicial, abra **Saída para OBS**. Em **Captura de jogo**, selecione no 
 - **RTX Video HDR** apresenta o vídeo pela saída HDR e reduz as atualizações de GPU ao abrir o painel.
 - **Captura em 1440p** aparece no seletor quando o driver da placa oferece o modo, inclusive em placas como a Elgato 4K Pro.
 - **Remover quadros duplicados** agora ajusta a alternância do modo **60 → 30** para priorizar a primeira cópia em capturas com quadros repetidos.
-
-## Canal do Zanit
-
-Acompanhe o Neural Frame e o conteúdo de jogos no [canal Zanitzada no YouTube](https://www.youtube.com/@Zanitzada).
-
-## Apoie o projeto
-
-Se o Neural Frame faz parte da sua configuração, você pode apoiar o desenvolvimento pelo LivePix.
-
-<a href="https://livepix.gg/zanit"><img src="media/livepix-zanit.png" alt="QR Code LivePix do Zanit" width="220"></a>
-
-[**Apoiar pelo LivePix**](https://livepix.gg/zanit)
