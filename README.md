@@ -29,9 +29,9 @@ Escolha o arquivo da sua placa de vídeo na seção [Releases](https://github.co
 
 | Série NVIDIA | Arquitetura | Portátil | Instalador |
 | --- | --- | --- | --- |
-| RTX 3000 | Ampere | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-2.0-Portable-RTX3000.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-Setup-2.0-RTX3000.exe) |
-| RTX 4000 | Ada Lovelace | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-2.0-Portable-RTX4000.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-Setup-2.0-RTX4000.exe) |
-| RTX 5000 | Blackwell | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-2.0-Portable-RTX5000.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.0/NeuralFrame-Setup-2.0-RTX5000.exe) |
+| RTX 3000 | Ampere | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.1/NeuralFrame-2.1-Portable-RTX3000.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.1/NeuralFrame-Setup-2.1-RTX3000.exe) |
+| RTX 4000 | Ada Lovelace | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.1/NeuralFrame-2.1-Portable-RTX4000.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.1/NeuralFrame-Setup-2.1-RTX4000.exe) |
+| RTX 5000 | Blackwell | [Portátil em ZIP](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.1/NeuralFrame-2.1-Portable-RTX5000.zip) | [Instalador EXE](https://github.com/flwless-love/neural-frame-nr/releases/download/v2.1/NeuralFrame-Setup-2.1-RTX5000.exe) |
 
 Para usar o **Upscaling NVIDIA**, prefira o instalador da sua série, que inclui o runtime NVIDIA Video Effects correspondente. Para usar a edição portátil, extraia o ZIP inteiro e abra **NeuralFrame.exe**.
 
